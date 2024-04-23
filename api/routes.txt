@@ -1,0 +1,4 @@
+/institutions
+/institutions/{id}/users
+/collections
+/content_types

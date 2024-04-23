@@ -1,0 +1,8 @@
+{
+  "DB_HOST": "sql.freedb.tech",
+  "DB_USER": "freedb_porcupine",
+  "DB_PASS": "C#FaWSX4n%5@wwf",
+  "DB_NAME": "freedb_porcupine",
+  "DB_PORT": 3306,
+  "CALLBACK_URL": "http://localhost:8080/callback"
+}
